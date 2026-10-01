@@ -28,7 +28,7 @@ F:.
 ```text
 git clone https://github.com/DenisK00900/TIP_PR3.git
 cd TIP_PR3
-go run ./cmd/myapp
+go run .
 ```
 
 # Запросы
